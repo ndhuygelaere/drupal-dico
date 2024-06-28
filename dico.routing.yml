@@ -1,0 +1,10 @@
+####################################################
+# Datadictionnary
+#
+dico.datadictionnary:
+  path: "/admin/config/dico/data-dictionnary"
+  defaults:
+    _controller: '\Drupal\dico\Controller\DataDictionnaryController::datadictionnary'
+    _title: "Data dictionnary"
+  requirements:
+    _role: "administrator"

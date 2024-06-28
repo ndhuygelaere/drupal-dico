@@ -1,0 +1,8 @@
+ ##################################################
+# Page data dictionnary
+# 
+dico.datadictionnary_page:
+  route_name: dico.datadictionnary
+  parent: system.admin_config
+  title: 'Data dictionnary'
+  weight: -10
